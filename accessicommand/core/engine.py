@@ -318,7 +318,7 @@ if __name__ == '__main__':
         print("Watch the console output for event handling and action execution.")
         print("Check if the corresponding pyautogui action happens!")
 
-    print("\nPress Ctrl+C in this terminal to stop.")  
+    print("\nPress Ctrl+C in this terminal to stop.")      
 
     try:
         # Keep main thread alive while the engine (and detector threads) run
@@ -333,4 +333,4 @@ if __name__ == '__main__':
     finally:
         # Ensure engine and its detector threads are stopped cleanly on exit
         engine.stop()
-        print("--- Engine Test Finished ---")
+        print("--- Engine Test Finished ---")  
