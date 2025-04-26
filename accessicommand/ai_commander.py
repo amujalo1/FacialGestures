@@ -19,9 +19,9 @@ APP_WINDOW_TITLE = "AccessiCommand" # Exact title of your main Tkinter window
 # --- Use pyautogui.displayMousePosition() to find these coordinates! ---
 # These are EXAMPLES - replace with YOUR coordinates for YOUR screen/window size/position
 BUTTON_COORDS = {
-    "start button": (445, 446),    # Center of START ENGINE button
-    "stop button": (598, 444),     # Center of STOP ENGINE button
-    "config button": (525, 497)    # Center of CONFIGURE BINDINGS button
+    "start button": (236, 217),    # Center of START ENGINE button
+    "stop button": (405, 217),     # Center of STOP ENGINE button
+    "config button": (314, 276)    # Center of CONFIGURE BINDINGS button
     # Add coordinates for Config Dialog buttons if needed (e.g., "save", "cancel")
     # "save config": (X, Y),
     # "cancel config": (X, Y)
