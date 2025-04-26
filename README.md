@@ -155,5 +155,3 @@ AccessiCommand follows a modular architecture:
 *   PyAudio (for microphone access)
 *   PyAutoGUI (for simulating system input)
 *   threading (for running detection loops in background)
-
-This README provides a comprehensive overview for your hackathon project. Good luck with the rest of your development and presentation!
